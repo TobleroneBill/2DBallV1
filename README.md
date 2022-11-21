@@ -10,7 +10,7 @@ Controls:
   K - disables gravity
 </li>
 <li>
- Left Click - adds force to the ball in the dircetion of your mouse
+ Left Click - adds force to the ball in the direction of your mouse
 </li>
 
 <p>
